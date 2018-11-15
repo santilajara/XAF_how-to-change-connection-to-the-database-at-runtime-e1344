@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ChangeDatabaseAtRuntimeViewController.cs](./CS/WinWebSolution.Module/ChangeDatabaseAtRuntimeViewController.cs) (VB: [ChangeDatabaseAtRuntimeViewController.vb](./VB/WinWebSolution.Module/ChangeDatabaseAtRuntimeViewController.vb))
+* [ISupportChangeDatabaseAtRuntime.cs](./CS/WinWebSolution.Module/ISupportChangeDatabaseAtRuntime.cs) (VB: [ISupportChangeDatabaseAtRuntime.vb](./VB/WinWebSolution.Module/ISupportChangeDatabaseAtRuntime.vb))
+* [WebApplicationE1344.cs](./CS/WinWebSolution.Web/ApplicationCode/WebApplicationE1344.cs) (VB: [WebApplicationE1344.vb](./VB/WinWebSolution.Web/ApplicationCode/WebApplicationE1344.vb))
+* [WinApplicationE1344.cs](./CS/WinWebSolution.Win/WinApplicationE1344.cs) (VB: [WinApplicationE1344.vb](./VB/WinWebSolution.Win/WinApplicationE1344.vb))
+<!-- default file list end -->
 # How to change connection to the database at runtime
 
 
