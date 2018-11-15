@@ -1,3 +1,17 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [WebChangeDatabaseAuthenticationActiveDirectory.cs](./CS/ChangeDatabase.Module.Web/WebChangeDatabaseAuthenticationActiveDirectory.cs) (VB: [WebChangeDatabaseAuthenticationActiveDirectory.vb](./VB/ChangeDatabase.Module.Web/WebChangeDatabaseAuthenticationActiveDirectory.vb))
+* [WebChangeDatabaseController.cs](./CS/ChangeDatabase.Module.Web/WebChangeDatabaseController.cs) (VB: [WebChangeDatabaseController.vb](./VB/ChangeDatabase.Module.Web/WebChangeDatabaseController.vb))
+* [ChangeDatabaseStandardAuthentication.cs](./CS/ChangeDatabase.Module.Win/ChangeDatabaseStandardAuthentication.cs) (VB: [ChangeDatabaseStandardAuthentication.vb](./VB/ChangeDatabase.Module.Win/ChangeDatabaseStandardAuthentication.vb))
+* [WinChangeDatabaseController.cs](./CS/ChangeDatabase.Module.Win/WinChangeDatabaseController.cs) (VB: [WinChangeDatabaseController.vb](./VB/ChangeDatabase.Module.Win/WinChangeDatabaseController.vb))
+* [ChangeDatabaseLogonParameters.cs](./CS/ChangeDatabase.Module/ChangeDatabaseLogonParameters.cs) (VB: [ChangeDatabaseLogonParameters.vb](./VB/ChangeDatabase.Module/ChangeDatabaseLogonParameters.vb))
+* [Updater.cs](./CS/ChangeDatabase.Module/Updater.cs) (VB: [Updater.vb](./VB/ChangeDatabase.Module/Updater.vb))
+* [WebApplication_.cs](./CS/ChangeDatabase.Web/ApplicationCode/WebApplication_.cs) (VB: [WebApplication_.vb](./VB/ChangeDatabase.Web/ApplicationCode/WebApplication_.vb))
+* [Global_.asax.cs](./CS/ChangeDatabase.Web/Global_.asax.cs) (VB: [Global_.asax.vb](./VB/ChangeDatabase.Web/Global_.asax.vb))
+* [Program.cs](./CS/ChangeDatabase.Win/Program.cs) (VB: [Program.vb](./VB/ChangeDatabase.Win/Program.vb))
+* [WinApplication_.cs](./CS/ChangeDatabase.Win/WinApplication_.cs) (VB: [WinApplication_.vb](./VB/ChangeDatabase.Win/WinApplication_.vb))
+<!-- default file list end -->
 # How to change connection to the database at runtime
 
 
