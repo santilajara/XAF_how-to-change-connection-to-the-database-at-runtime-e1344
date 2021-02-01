@@ -1,1 +1,1 @@
-﻿<%@ Application Language="vb" CodeBehind="Global.asax.vb" Inherits="RuntimeDbChooser.Web.Global"%>
+<%@ Application Language="C#" CodeBehind="Global.asax.cs" Inherits="RuntimeDbChooser.Web.Global"%>

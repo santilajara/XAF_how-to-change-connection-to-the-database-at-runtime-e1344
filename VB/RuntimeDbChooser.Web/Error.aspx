@@ -1,5 +1,5 @@
-﻿<%@ Page Language="vb" AutoEventWireup="false" Inherits="ErrorPage" EnableViewState="false"
-    ValidateRequest="false" CodeBehind="Error.aspx.vb" %>
+﻿<%@ Page Language="c#" AutoEventWireup="false" Inherits="ErrorPage" EnableViewState="false"
+    ValidateRequest="false" CodeBehind="Error.aspx.cs" %>
 <!DOCTYPE html>
 <html>
 <head id="Head1" runat="server">
@@ -123,7 +123,7 @@
                 var errorText = null;
                 if (window != window.top) {
                     errorText = document.getElementById('MainErrorText');
-
+                    
                 } else {
                     errorText = document.getElementById('PopupErrorText');
                 }
