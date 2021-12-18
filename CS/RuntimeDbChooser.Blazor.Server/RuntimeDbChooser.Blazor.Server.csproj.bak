@@ -24,13 +24,13 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="DevExpress.ExpressApp" Version="20.2.5-pre-20363" />
-    <PackageReference Include="DevExpress.ExpressApp.Blazor" Version="20.2.5-pre-20363" />
-    <PackageReference Include="DevExpress.ExpressApp.Security.Xpo" Version="20.2.5-pre-20363" />
-    <PackageReference Include="DevExpress.ExpressApp.Validation.Blazor" Version="20.2.5-pre-20363" />
-    <PackageReference Include="DevExpress.ExpressApp.Xpo" Version="20.2.5-pre-20363" />
-    <PackageReference Include="DevExpress.Persistent.Base" Version="20.2.5-pre-20363" />
-    <PackageReference Include="DevExpress.Persistent.BaseImpl" Version="20.2.5-pre-20363" />
+    <PackageReference Include="DevExpress.ExpressApp" Version="20.2.5" />
+    <PackageReference Include="DevExpress.ExpressApp.Blazor" Version="20.2.5" />
+    <PackageReference Include="DevExpress.ExpressApp.Security.Xpo" Version="20.2.5" />
+    <PackageReference Include="DevExpress.ExpressApp.Validation.Blazor" Version="20.2.5" />
+    <PackageReference Include="DevExpress.ExpressApp.Xpo" Version="20.2.5" />
+    <PackageReference Include="DevExpress.Persistent.Base" Version="20.2.5" />
+    <PackageReference Include="DevExpress.Persistent.BaseImpl" Version="20.2.5" />
     <PackageReference Include="DevExtreme.AspNet.Data" Version="2.8.0" />
     <PackageReference Include="Logify.Alert.Console" Version="1.0.52" />
     <PackageReference Include="Microsoft.AspNetCore.Components" Version="3.1.7" />
@@ -38,7 +38,7 @@
     <PackageReference Include="Microsoft.AspNetCore.Components.Authorization" Version="3.1.7" />
     <PackageReference Include="Microsoft.CodeAnalysis.CSharp" Version="3.3.1" />
     <PackageReference Include="System.CodeDom" Version="4.7.0" />
-    <PackageReference Include="RestSharp" Version="106.11.5" />
+    <PackageReference Include="RestSharp" Version="106.12.0" />
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
     <PackageReference Include="System.IO.FileSystem" Version="4.3.0" />
   </ItemGroup>
